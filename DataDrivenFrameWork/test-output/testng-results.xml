@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="65907" started-at="2020-08-21T21:22:06 CEST" finished-at="2020-08-21T21:23:12 CEST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="65907" started-at="2020-08-21T21:22:06 CEST" finished-at="2020-08-21T21:23:12 CEST">
+      <class name="com.testcases.Logintest">
+        <test-method status="PASS" signature="Testone(java.util.Hashtable)[pri:0, instance:com.testcases.Logintest@166fa74d]" name="Testone" duration-ms="13417" started-at="2020-08-21T21:22:07 CEST" data-provider="getTestOneData" finished-at="2020-08-21T21:22:20 CEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Username=kunleseun35@gmail.com, Col4=TC1.4, Col3=TC1.3, Password=johncenaHHH35§}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testone -->
+        <test-method status="PASS" signature="Testone(java.util.Hashtable)[pri:0, instance:com.testcases.Logintest@166fa74d]" name="Testone" duration-ms="10859" started-at="2020-08-21T21:22:20 CEST" data-provider="getTestOneData" finished-at="2020-08-21T21:22:31 CEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Username=kunleseun35@gmail.com, Col4=TC2.4, Col3=TC2.3, Password=johncenaHHH35§}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testone -->
+        <test-method status="PASS" signature="Testone(java.util.Hashtable)[pri:0, instance:com.testcases.Logintest@166fa74d]" name="Testone" duration-ms="10824" started-at="2020-08-21T21:22:31 CEST" data-provider="getTestOneData" finished-at="2020-08-21T21:22:42 CEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Username=kunleseun35@gmail.com, Col4=TC3.4, Col3=TC3.3, Password=johncenaHHH35§}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testone -->
+        <test-method status="PASS" signature="Testone(java.util.Hashtable)[pri:0, instance:com.testcases.Logintest@166fa74d]" name="Testone" duration-ms="9818" started-at="2020-08-21T21:22:42 CEST" data-provider="getTestOneData" finished-at="2020-08-21T21:22:52 CEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Username=kunlesun35@gmail.com, Col4=TC4.4, Col3=TC4.3, Password=johncenaHHH35}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testone -->
+        <test-method status="PASS" signature="Testone(java.util.Hashtable)[pri:0, instance:com.testcases.Logintest@166fa74d]" name="Testone" duration-ms="10147" started-at="2020-08-21T21:22:52 CEST" data-provider="getTestOneData" finished-at="2020-08-21T21:23:02 CEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Username=kunleeun35@gmail.com, Col4=TC5.4, Col3=TC5.3, Password=johncenaHHH35}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testone -->
+        <test-method status="PASS" signature="Testone(java.util.Hashtable)[pri:0, instance:com.testcases.Logintest@166fa74d]" name="Testone" duration-ms="9616" started-at="2020-08-21T21:23:02 CEST" data-provider="getTestOneData" finished-at="2020-08-21T21:23:12 CEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Username=kunleun35@gmail.com, Col4=TC6.4, Col3=TC6.3, Password=johncenaHHH3}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testone -->
+        <test-method status="PASS" signature="endreport()[pri:0, instance:com.testcases.Logintest@166fa74d]" name="endreport" is-config="true" duration-ms="526" started-at="2020-08-21T21:23:12 CEST" finished-at="2020-08-21T21:23:12 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endreport -->
+      </class> <!-- com.testcases.Logintest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
